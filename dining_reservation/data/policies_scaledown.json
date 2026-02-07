@@ -1,0 +1,5 @@
+{
+  "hours": {"open": "12:00", "close": "22:00"},
+  "cancel_notice_minutes": 120,
+  "waitlist_hold_minutes": 10
+}

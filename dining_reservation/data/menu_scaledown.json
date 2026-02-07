@@ -1,0 +1,9 @@
+{
+  "restaurant_name": "Blue Garden",
+  "menu": [
+    {"name": "Garden Salad", "tags": ["vegan", "gluten-free"], "price": 9},
+    {"name": "Margherita Pizza", "tags": ["veg"], "price": 10},
+    {"name": "Pasta Alfredo", "tags": ["veg"], "price": 12},
+    {"name": "Grilled Chicken", "tags": ["non-veg"], "price": 14}
+  ]
+}

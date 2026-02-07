@@ -1,0 +1,27 @@
+{
+  "reservations": [
+    {
+      "date": "2026-02-05",
+      "time": "20:00",
+      "people": 4,
+      "table": 4,
+      "status": "CONFIRMED"
+    },
+    {
+      "reservation_id": "R1770389713",
+      "date": "2026-02-05",
+      "time": "18:00",
+      "people": 4,
+      "table": 4,
+      "status": "CANCELLED"
+    },
+    {
+      "reservation_id": "R1770390852",
+      "date": "2026-02-05",
+      "time": "19:00",
+      "people": 5,
+      "table": 6,
+      "status": "CANCELLED"
+    }
+  ]
+}
